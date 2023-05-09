@@ -1,23 +1,15 @@
-def checking_for_correct_data(func):
+def changing_the_result_to_str(func):
     def wrapper(*args, **kwargs):
-        data = list(args) + list(kwargs.values())
-        control_list = []
-        for item in data:
-            if type(item) == str:
-                control_list.append(item)
-                if len(control_list) == len(data):
-                    return func(*args, **kwargs)
-        else:
-            return 'Error: incorrect data'
 
+        result = str(func(*args, **kwargs))
+        return result
     return wrapper
 
 
-@checking_for_correct_data
-def main_func(first_value, second_value) -> str:
-    return first_value + second_value * 2
+@changing_the_result_to_str
+def main_func(first_value, second_value):
+    main_func_result = first_value + second_value * 2
+    return main_func_result
 
 
 print(main_func(5, 6))
-print(main_func('5', 6))
-print(main_func('5', '6'))
