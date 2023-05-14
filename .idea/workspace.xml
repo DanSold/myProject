@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63da7ba0-88e5-4a68-af56-6a08f6983780" name="Changes" comment="14.05.23 hw22 &quot;fixed4&quot;">
+      <change afterPath="$PROJECT_DIR$/hw22.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PNy3Ek7ovlt0SSoi3XGl5ExO47" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63da7ba0-88e5-4a68-af56-6a08f6983780" name="Changes" comment="" />
+      <created>1683311633075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683311633075</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fiks gitignor">
+      <created>1683561825840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683561825840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cw21">
+      <created>1683561886288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683561886288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="09.05.23 hw21">
+      <created>1683581057317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683581057317</updated>
+    </task>
+    <task id="LOCAL-00004" summary="09.05.23 hw21 first shift">
+      <created>1683639083170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683639083170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="12.05.23 cw22">
+      <created>1683907800334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683907800334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="13.05.23 hw22">
+      <created>1684007837998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007837998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="14.05.23 hw22 &quot;fixed 1&quot;">
+      <created>1684081396192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684081396192</updated>
+    </task>
+    <task id="LOCAL-00008" summary="14.05.23 hw22 &quot;fixed 2&quot;">
+      <created>1684082634126</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684082634126</updated>
+    </task>
+    <task id="LOCAL-00009" summary="14.05.23 hw22 &quot;fixed 3&quot;">
+      <created>1684082695611</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684082695611</updated>
+    </task>
+    <task id="LOCAL-00010" summary="14.05.23 hw22 &quot;fixed 3&quot;">
+      <created>1684082744301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684082744301</updated>
+    </task>
+    <task id="LOCAL-00011" summary="14.05.23 hw22 &quot;fixed4&quot;">
+      <created>1684082862022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684082862022</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fiks gitignor" />
+    <MESSAGE value="cw21" />
+    <MESSAGE value="09.05.23 hw21" />
+    <MESSAGE value="09.05.23 hw21 first shift" />
+    <MESSAGE value="12.05.23 cw22" />
+    <MESSAGE value="13.05.23 hw22" />
+    <MESSAGE value="14.05.23 hw22 &quot;fixed 1&quot;" />
+    <MESSAGE value="14.05.23 hw22 &quot;fixed 2&quot;" />
+    <MESSAGE value="14.05.23 hw22 &quot;fixed 3&quot;" />
+    <MESSAGE value="14.05.23 hw22 &quot;fixed4&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.05.23 hw22 &quot;fixed4&quot;" />
+  </component>
+</project>
