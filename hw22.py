@@ -4,6 +4,7 @@ from datetime import datetime
 class Car:
 
     def __init__(self, mark, brand, fuel_consumption, graduation_year=2020):
+
         self.graduation_year = graduation_year
         self.mark = mark
         self.brand = brand
