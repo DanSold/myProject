@@ -33,6 +33,7 @@ with sqlite3.connect('database.db') as connection:
         products,
     )
 
+
     data = cursor.execute("""
         SELECT *
         FROM product
