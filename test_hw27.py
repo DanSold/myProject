@@ -1,36 +1,17 @@
 import hw27
+import pytest
+
+test_cases_password = [
+    ('aABb1234!@#', True),
+    ('Aa1!', False),
+    ('ab1234!@#', False),
+    ('AB1234!@#', False),
+    ('abcde', False),
+    ('', False),
+    ('aABb1234!@# ', False)
+]
 
 
-def test_checking_validation_short_password():
-    password = 'Aa1!'
-    assert hw27.checking_validation_password(password) is False
-
-
-def test_checking_validation_correct_password():
-    password = 'aABb1234!@#'
-    assert hw27.checking_validation_password(password) is True
-
-
-def test_checking_validation_none_uppercase_password():
-    password = 'ab1234!@#'
-    assert hw27.checking_validation_password(password) is False
-
-
-def test_checking_validation_none_lowercase_password():
-    password = 'AB1234!@#'
-    assert hw27.checking_validation_password(password) is False
-
-
-def test_checking_validation_none_digit_password():
-    password = 'abadadadada'
-    assert hw27.checking_validation_password(password) is False
-
-
-def test_checking_validation_none_password():
-    password = ''
-    assert hw27.checking_validation_password(password) is False
-
-
-def test_checking_validation_space_in_password():
-    password = 'aABb1234!@# '
-    assert hw27.checking_validation_password(password) is False
+@pytest.mark.parametrize('password, expected', test_cases_password)
+def test_checking_validation_password(password, expected):
+    assert hw27.checking_validation_password(password) == expected
